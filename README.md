@@ -1,1 +1,1 @@
-Live URL: https://parallax-scrill-with-css.netlify.app/
+Live URL: https://parallax-scroll-with-css.netlify.app/
